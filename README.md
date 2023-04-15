@@ -1,2 +1,2 @@
 # java_teste1
-asdlkjashdkjlasd
+O projeto foi modificado com Java
